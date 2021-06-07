@@ -34,6 +34,6 @@ andnot_net.get_info()
 andnot_net.test()
 
 ```
-this data set and outputs refers to andnot logical oprator
+this data set and outputs refers to andnot logical oprator <br>
 NOTE : the outputs must be bipolar
 
