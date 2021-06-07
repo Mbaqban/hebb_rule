@@ -37,3 +37,4 @@ andnot_net.test()
 this data set and outputs refers to andnot logical oprator <br>
 NOTE : the outputs must be bipolar
 
+![image](https://user-images.githubusercontent.com/32582182/120983187-b58afb80-c78e-11eb-9cde-305450f48be4.png)
